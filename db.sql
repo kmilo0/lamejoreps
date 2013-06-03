@@ -1,0 +1,6 @@
+CREATE TABLE eps (
+  id INT NOT NULL AUTO_INCREMENT,
+  nombre VARCHAR(255) NOT NULL,
+  calificacion INT NOT NULL,
+  PRIMARY KEY (id)
+);
